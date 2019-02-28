@@ -10,18 +10,18 @@ class Users extends Component {
         this.props.onFetchUsers();
         let obj = this.props;
         setTimeout(function () {
-           obj.onFetchUsersSuccess([{id:1,username:'tiepnd'},{id:2,username:'Tiephandsome'},{id:3,username:'TiepDepTrai'}]);
+           obj.onFetchUsersSuccess([{id:1,username:'Dep trai'},{id:2,username:'Ga lang'},{id:3,username:'Nhieu tien'},{id:3,username:'Qua hoan hao'}]);
         },3000);
     }
     render() {
         const { Users } = this.props;
         return (
             <div className="App-Users">
-                {Users.get('loading') === true?"Loading":""}
+                {Users.get('loading') === true?"Loading":"TiepNd"}
                 {Users.get('data')?Users.get('data').map((value,index) => {
                     return (
                         <div key={index}>
-                            <p>Xin chao user id : {value.id} username : {value.username}</p>
+                            <p>Uu diem {value.id} : {value.username}</p>
                         </div>
                     );
                 }):null}
