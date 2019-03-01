@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "65779ebcc35604a25c2ba77309c5b8af",
-    "url": "/lession_4/static/media/fa-regular-400.65779ebc.woff2"
+    "revision": "414ff5daad323a1c47c5177d4bd29674",
+    "url": "/lession_4/static/media/fa-regular-400.414ff5da.eot"
   },
   {
     "revision": "83a939f958c354a16902",
@@ -44,12 +44,16 @@ self.__precacheManifest = [
     "url": "/lession_4/static/media/fa-brands-400.b90365bc.woff"
   },
   {
-    "revision": "414ff5daad323a1c47c5177d4bd29674",
-    "url": "/lession_4/static/media/fa-regular-400.414ff5da.eot"
+    "revision": "c39278f7abfc798a241551194f55e29f",
+    "url": "/lession_4/static/media/fa-brands-400.c39278f7.ttf"
   },
   {
     "revision": "83a939f958c354a16902",
     "url": "/lession_4/static/js/main.83a939f9.chunk.js"
+  },
+  {
+    "revision": "65779ebcc35604a25c2ba77309c5b8af",
+    "url": "/lession_4/static/media/fa-regular-400.65779ebc.woff2"
   },
   {
     "revision": "5dd3976cb5d61e2e561f2a46b916f377",
@@ -60,32 +64,28 @@ self.__precacheManifest = [
     "url": "/lession_4/static/media/fa-regular-400.f6c6f6c8.ttf"
   },
   {
-    "revision": "e7e957c87c454bccaa3bf9fdaa6874f8",
-    "url": "/lession_4/static/media/fa-regular-400.e7e957c8.svg"
-  },
-  {
     "revision": "80533988ff5fecd5be26557d08ce8237",
     "url": "/lession_4/static/media/fa-brands-400.80533988.svg"
-  },
-  {
-    "revision": "b5596f4d339f99e3d69bc41be78db962",
-    "url": "/lession_4/static/media/fa-solid-900.b5596f4d.eot"
-  },
-  {
-    "revision": "c39278f7abfc798a241551194f55e29f",
-    "url": "/lession_4/static/media/fa-brands-400.c39278f7.ttf"
-  },
-  {
-    "revision": "b70cea0339374107969eb53e5b1f603f",
-    "url": "/lession_4/static/media/fa-solid-900.b70cea03.ttf"
   },
   {
     "revision": "462806316fea535a6a57651bc2b000b0",
     "url": "/lession_4/static/media/fa-solid-900.46280631.woff2"
   },
   {
+    "revision": "e7e957c87c454bccaa3bf9fdaa6874f8",
+    "url": "/lession_4/static/media/fa-regular-400.e7e957c8.svg"
+  },
+  {
     "revision": "61969d433bf265b9717a6c357a1e04e4",
     "url": "/lession_4/static/media/fa-solid-900.61969d43.woff"
+  },
+  {
+    "revision": "b5596f4d339f99e3d69bc41be78db962",
+    "url": "/lession_4/static/media/fa-solid-900.b5596f4d.eot"
+  },
+  {
+    "revision": "b70cea0339374107969eb53e5b1f603f",
+    "url": "/lession_4/static/media/fa-solid-900.b70cea03.ttf"
   },
   {
     "revision": "d4f4fb02fdc283a0c512",
