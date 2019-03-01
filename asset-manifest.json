@@ -1,14 +1,19 @@
 {
-  "main.css": "/lession_4/static/css/main.32a98777.chunk.css",
-  "main.js": "/lession_4/static/js/main.b97056f9.chunk.js",
-  "main.js.map": "/lession_4/static/js/main.b97056f9.chunk.js.map",
+  "main.css": "/lession_4/static/css/main.a61d7835.chunk.css",
+  "main.js": "/lession_4/static/js/main.83a939f9.chunk.js",
+  "main.js.map": "/lession_4/static/js/main.83a939f9.chunk.js.map",
   "runtime~main.js": "/lession_4/static/js/runtime~main.7817531c.js",
   "runtime~main.js.map": "/lession_4/static/js/runtime~main.7817531c.js.map",
-  "static/js/2.9b769f3e.chunk.js": "/lession_4/static/js/2.9b769f3e.chunk.js",
-  "static/js/2.9b769f3e.chunk.js.map": "/lession_4/static/js/2.9b769f3e.chunk.js.map",
+  "static/css/2.06522b61.chunk.css": "/lession_4/static/css/2.06522b61.chunk.css",
+  "static/js/2.d4f4fb02.chunk.js": "/lession_4/static/js/2.d4f4fb02.chunk.js",
+  "static/js/2.d4f4fb02.chunk.js.map": "/lession_4/static/js/2.d4f4fb02.chunk.js.map",
   "index.html": "/lession_4/index.html",
-  "precache-manifest.c7fe941b48ec9498f4d2af4fce79a86e.js": "/lession_4/precache-manifest.c7fe941b48ec9498f4d2af4fce79a86e.js",
+  "precache-manifest.74c3e9dbddfb48572b4402db17e7e8f4.js": "/lession_4/precache-manifest.74c3e9dbddfb48572b4402db17e7e8f4.js",
   "service-worker.js": "/lession_4/service-worker.js",
-  "static/css/main.32a98777.chunk.css.map": "/lession_4/static/css/main.32a98777.chunk.css.map",
-  "static/media/logo.svg": "/lession_4/static/media/logo.5d5d9eef.svg"
+  "static/css/2.06522b61.chunk.css.map": "/lession_4/static/css/2.06522b61.chunk.css.map",
+  "static/css/main.a61d7835.chunk.css.map": "/lession_4/static/css/main.a61d7835.chunk.css.map",
+  "static/media/device.css": "/lession_4/static/media/blx-d-p01v2-1.a93cd273.jpg",
+  "static/media/all.css": "/lession_4/static/media/fa-solid-900.b70cea03.ttf",
+  "static/media/banner.css": "/lession_4/static/media/home_banner.a0f381e5.png",
+  "static/media/shopstack-logo.png": "/lession_4/static/media/shopstack-logo.67660557.png"
 }
