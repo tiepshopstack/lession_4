@@ -40,12 +40,12 @@ self.__precacheManifest = [
     "url": "/lession_4/static/media/fa-brands-400.4b115e11.woff2"
   },
   {
-    "revision": "b90365bccdabd68c6c03902b4b141f09",
-    "url": "/lession_4/static/media/fa-brands-400.b90365bc.woff"
-  },
-  {
     "revision": "c39278f7abfc798a241551194f55e29f",
     "url": "/lession_4/static/media/fa-brands-400.c39278f7.ttf"
+  },
+  {
+    "revision": "b90365bccdabd68c6c03902b4b141f09",
+    "url": "/lession_4/static/media/fa-brands-400.b90365bc.woff"
   },
   {
     "revision": "83a939f958c354a16902",
@@ -64,16 +64,12 @@ self.__precacheManifest = [
     "url": "/lession_4/static/media/fa-regular-400.f6c6f6c8.ttf"
   },
   {
-    "revision": "80533988ff5fecd5be26557d08ce8237",
-    "url": "/lession_4/static/media/fa-brands-400.80533988.svg"
+    "revision": "e7e957c87c454bccaa3bf9fdaa6874f8",
+    "url": "/lession_4/static/media/fa-regular-400.e7e957c8.svg"
   },
   {
     "revision": "462806316fea535a6a57651bc2b000b0",
     "url": "/lession_4/static/media/fa-solid-900.46280631.woff2"
-  },
-  {
-    "revision": "e7e957c87c454bccaa3bf9fdaa6874f8",
-    "url": "/lession_4/static/media/fa-regular-400.e7e957c8.svg"
   },
   {
     "revision": "61969d433bf265b9717a6c357a1e04e4",
@@ -82,6 +78,10 @@ self.__precacheManifest = [
   {
     "revision": "b5596f4d339f99e3d69bc41be78db962",
     "url": "/lession_4/static/media/fa-solid-900.b5596f4d.eot"
+  },
+  {
+    "revision": "80533988ff5fecd5be26557d08ce8237",
+    "url": "/lession_4/static/media/fa-brands-400.80533988.svg"
   },
   {
     "revision": "b70cea0339374107969eb53e5b1f603f",
