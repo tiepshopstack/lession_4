@@ -1,0 +1,122 @@
+.box-service {
+    background-size: cover;
+    background-color: #f6f8f9;
+    opacity: 1;
+    -webkit-animation: w-animate-btt 0.5s;
+    -moz-animation: w-animate-btt 0.5s;
+    -o-animation: w-animate-btt 0.5s;
+    animation: w-animate-btt 0.5s;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    padding: 60px;
+}
+.max-title {
+    position: relative;
+    margin-bottom: 35px;
+    margin-top: 10px;
+    text-align: center;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+}
+.max-title:before, .max-title:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%,0);
+    -webkit-transform: translate(-50%,0);
+    height: 3px;
+}
+.max-title3:before {
+    width: 35%;
+}
+
+.max-title3:after {
+    background-color: #00c2e5;
+    width: 140px;
+}
+
+.max-title3 h2 {
+    font-size: 32px;
+    letter-spacing: -1px;
+    color: #313132;
+    padding-bottom: 34px;
+    line-height: 1;
+    text-transform: uppercase;
+    position: relative;
+    font-weight: 100;
+    margin-bottom: 0;
+}
+.max-title3 h2:before {
+    border-color: #0093d0;
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border-left: 12px solid transparent !important;
+    border-right: 12px solid transparent !important;
+    border-bottom: 18px solid #00c2e5;
+    z-index: 2;
+    -webkit-transform: translate(-50%);
+    transform: translate(-50%);
+}
+
+.max-title3 h2:after {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 50%;
+    width: 13px;
+    height: 13px;
+    background-color: #fff;
+    -webkit-backface-visibility: hidden;
+    -webkit-transform: translate(-50%) rotate(45deg);
+    transform: translate(-50%) rotate(45deg);
+    border: 2px solid #00c2e5;
+    z-index: 2;
+}
+
+.icon-box6 {
+    position: relative;
+    text-align: center;
+    background-color: rgba(255,255,255,0.81);
+    background-color: #fff\9;
+    border: 1px solid #e5e5e5;
+    border-radius: 3px;
+    padding: 36px 20px 28px;
+    text-shadow: 0 0 0 0;
+    margin: 40px 0 20px;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.icon-box6 i {
+    font-size: 24px;
+    width: 56px;
+    height: 56px;
+    text-align: center;
+    padding: 15px 16px 17px;
+    background: #00c2e5;
+    color: #fff;
+    position: absolute;
+    top: -30px;
+    left: 50%;
+    margin-left: -27px;
+    border-radius: 30px;
+    cursor: default;
+}
+
+.icon-box6 h4 {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.2;
+    margin-bottom: 10px;
+}
+
+.icon-box6 p {
+    color: #818181;
+    margin-bottom: 12px;
+}

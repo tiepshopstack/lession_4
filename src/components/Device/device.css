@@ -1,0 +1,8 @@
+.box-device {
+    padding-bottom: 0;
+    background: url('./blx-d-p01v2-1.jpg') no-repeat;
+    background-position: center center;
+    background-size: cover;
+    min-height: 810px;
+    background-color: #373332;
+}

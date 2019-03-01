@@ -1,0 +1,28 @@
+.contact-box {
+    padding-top: 26px;
+    padding-bottom: 14px;
+    background-size: cover;
+    background-color: #e87700;
+}
+
+.contact-box strong {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: bold;
+}
+.contact-box p {
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.contact-box .bordered-bot {
+    color: #fff;
+    background: none;
+    transition: all .3s ease;
+    border: 2px solid #ffffff;
+    text-shadow: none;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding: 16px 19px 14px;
+    display: inline-block;
+}

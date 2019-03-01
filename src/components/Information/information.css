@@ -1,0 +1,24 @@
+.information-box {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-size: cover;
+    background-color: #e87700;
+}
+.information-box .counted {
+    color: #ffffff;
+    text-align: center;
+}
+.information-box .max-count {
+    font-size: 42px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.information-box i {
+    display: inline-block;
+    vertical-align: super;
+}
+.information-box .suf-counter {
+    vertical-align: super;
+    font-size: 35px;
+}

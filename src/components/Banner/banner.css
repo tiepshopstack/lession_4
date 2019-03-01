@@ -1,0 +1,5 @@
+.banner-img  {
+    background: url("./home_banner.png") no-repeat;
+    background-size: cover;
+    height: 950px;
+}
